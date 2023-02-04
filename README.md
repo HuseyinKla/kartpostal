@@ -1,6 +1,6 @@
 # Kartpostal
 
-A new Flutter project.
+A simple postcard
 
 ## Getting Started
 
